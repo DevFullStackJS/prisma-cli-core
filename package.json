@@ -79,7 +79,7 @@
     "express-request-proxy": "https://github.com/DevFullStackJS/express-request-proxy.git",
     "figures": "^2.0.0",
     "fs-extra": "^7.0.0",
-    "globby": "^8.0.1",
+    "globby": "https://github.com/DevFullStackJS/globby.git",
     "graphql": "^14.3.0",
     "graphql-config": "https://github.com/DevFullStackJS/graphql-config.git",
     "graphql-config-extension-prisma": "https://github.com/DevFullStackJS/graphql-config-extension-prisma.git",
